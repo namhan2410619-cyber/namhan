@@ -1,3 +1,4 @@
 folium
 streamlit
 st_folium
+streamlit_folium
