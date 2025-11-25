@@ -5,4 +5,4 @@ pandas
 yfinance
 plotly
 datetime
-timedelte
+timedelta
