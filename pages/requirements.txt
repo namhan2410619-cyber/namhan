@@ -1,3 +1,15 @@
 folium
 streamlit
 streamlit_folium
+pandas
+yfinance
+plotly
+datetime
+timedelte
+
+
+
+
+
+
+
